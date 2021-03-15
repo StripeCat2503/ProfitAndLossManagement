@@ -1,0 +1,1 @@
+enum ReceiptStatusEnum { NONE, NEW, APPROVED, REJECTED, REMOVED, SPLITED }

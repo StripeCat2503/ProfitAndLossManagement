@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "281352713221",
+    "firebase_url": "https://swdk13.firebaseio.com",
+    "project_id": "swdk13",
+    "storage_bucket": "swdk13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281352713221:android:f7beed3a0aa2a10170986c",
+        "android_client_info": {
+          "package_name": "com.app.pnl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281352713221-d8ojsjie3famn1iknns604ji8qmchgb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpi9JUIRQ8k39pT-rS2uEwQ3FFQvFLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281352713221-d8ojsjie3famn1iknns604ji8qmchgb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281352713221:android:f1130576ca1ae15d70986c",
+        "android_client_info": {
+          "package_name": "hungnv.retail.pnl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281352713221-d8ojsjie3famn1iknns604ji8qmchgb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpi9JUIRQ8k39pT-rS2uEwQ3FFQvFLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281352713221-d8ojsjie3famn1iknns604ji8qmchgb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
